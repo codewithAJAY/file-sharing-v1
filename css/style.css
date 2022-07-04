@@ -338,6 +338,11 @@ input, textarea {
   :root{
       --container-width: 280px;
   }
+  .main-container {
+    display: block;
+    text-align: center;
+    justify-content: center;
+  }
   .span{
     display: block;
     width: 100%;
