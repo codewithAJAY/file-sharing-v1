@@ -340,7 +340,7 @@ input, textarea {
   }
   .main-container {
     display: block;
-    text-align: center;
+    text-align: left;
     justify-content: center;
   }
   .span{
