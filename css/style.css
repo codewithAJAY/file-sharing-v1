@@ -320,6 +320,19 @@ input, textarea {
       width: 100%;
       justify-content: center;
   }
+  .right{
+    display: none;
+  }
+  .left1{
+    font-size: 12px;;
+  }
+  .get-started{
+    font-size: 12px;
+  }
+  .h1{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
 @media screen and (max-width: 450px){
   :root{
