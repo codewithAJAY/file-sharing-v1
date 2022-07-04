@@ -342,6 +342,9 @@ input, textarea {
     display: block;
     width: 100%;
   }
+  .get-started {
+    bottom: 4px;
+  }
 }
 
 section.download {
